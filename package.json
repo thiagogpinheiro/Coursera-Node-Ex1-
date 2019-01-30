@@ -1,0 +1,11 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "\"Somple Node Examples\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Pinheiro",
+  "license": "ISC"
+}
